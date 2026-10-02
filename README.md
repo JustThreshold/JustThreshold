@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E02424,100:000000&height=220&section=header&text=S%E1%B4%9C%E1%B4%85%E1%B4%8F%20Us%E1%B4%87%CA%80&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Clean+Code.+Reliable+Systems.&descSize=16&descAlignY=68&descFontColor=aaaaaa" width="100%">
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E02424,100:000000&height=220&section=header&text=S%E1%B4%9C%E1%B4%85%E1%B4%8F%20Us%E1%B4%87%CA%80&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Clean+Code.+Reliable+Systems.&descSize=16&descAlignY=68&descFontColor=aaaaaa" width="100%">
 
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="Coding animation" width="100%">
