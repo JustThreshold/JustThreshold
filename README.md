@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E91E63,100:000000&height=200&section=header&text=Sudo%20User&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Backend%20%C2%B7%20Automation%20%C2%B7%20Telegram%20Systems&descSize=15&descAlignY=64&descFontColor=999999" width="100%">
 
 <p align="center">
-  <img src="./assets/coding.svg" alt="Coding animation" width="760">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif" alt="Coding animation" width="100%">
 </p>
 
 <p align="center">
