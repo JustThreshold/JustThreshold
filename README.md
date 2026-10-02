@@ -1,14 +1,9 @@
-<!-- 🚀 Top Coding Animation & Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E91E63,100:000000&height=240&section=header&text=Sᴜᴅᴏ%20Usᴇʀ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=70&descFontColor=aaaaaa" width="100%">
 
 <br>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=26&duration=4000&pause=1000&color=E91E63&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I%27m+Sudo+User+%F0%9F%91%8B;Automation-Focused+Backend+Builder;Telegram+Bots+%E2%80%A2+Systems+Arch;Learning+Relentlessly+%F0%9F%94%A5)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=26&duration=4000&pause=1000&color=E91E63&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I%27m+Sudo+User+%F0%9F%91%8B;Automation-Focused+Backend+Builder;Telegram+Bots+%E2%80%A2+Systems+Arch;Learning+Relentlessly+%F0%9F%94%A5" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -71,9 +66,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <br><br>
   <img height="175" src="https://streak-stats.demolab.com?user=JustThreshold&theme=transparent&hide_border=true&ring=E91E63&fire=E91E63&currStreakLabel=E91E63&background=000000">
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustThreshold&theme=github_dark" width="100%">
