@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E02424,100:000000&height=220&section=header&text=S%E1%B4%9C%E1%B4%85%E1%B4%8F%20U%CA%9Cs%E1%B4%87%CA%80&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Dark+Code.+Red+Discipline.&descSize=16&descAlignY=68&descFontColor=aaaaaa" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E02424,100:000000&height=220&section=header&text=S%E1%B4%9C%E1%B4%85%E1%B4%8F%20Us%E1%B4%87%CA%80&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Clean+Code.+Reliable+Systems.&descSize=16&descAlignY=68&descFontColor=aaaaaa" width="100%">
 
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="Coding animation" width="100%">
@@ -33,17 +33,28 @@
 ## Core Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/python" width="44" height="44" alt="Python"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/openjdk" width="44" height="44" alt="Java"><br><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/html5" width="44" height="44" alt="HTML5"><br><sub><b>HTML5</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ### Automation & Backend
-![Pyrofork](https://img.shields.io/badge/Pyrofork-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/telegram" width="44" height="44" alt="Pyrogram"><br><sub><b>Pyrogram</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mongodb" width="44" height="44" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/ffmpeg" width="44" height="44" alt="FFmpeg"><br><sub><b>FFmpeg</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/render" width="44" height="44" alt="Render"><br><sub><b>Render</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/docker" width="44" height="44" alt="Docker"><br><sub><b>Docker</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -70,13 +81,15 @@
 
 ## Get In Touch
 
-<p align="center">
-  <a href="https://t.me/VoidXTora"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/Tr_leader_7"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JustThreshold"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120"><a href="https://t.me/VoidXTora"><img src="https://cdn.simpleicons.org/telegram" width="44" height="44" alt="Telegram"><br><sub><b>Telegram</b></sub></a></td>
+    <td align="center" width="120"><a href="https://instagram.com/Tr_leader_7"><img src="https://cdn.simpleicons.org/instagram" width="44" height="44" alt="Instagram"><br><sub><b>Instagram</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/JustThreshold"><img src="https://cdn.simpleicons.org/github/white" width="44" height="44" alt="GitHub"><br><sub><b>GitHub</b></sub></a></td>
+  </tr>
+</table>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JustThreshold&label=Profile+views&color=E02424&style=flat-square" alt="Profile views">
