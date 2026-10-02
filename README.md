@@ -15,15 +15,14 @@
 
 ---
 
-## ☕ About Me
+## ☕ About Me & Philosophy
 
 > **Built in the dark. Improved in silence.**  
 >  
-> I design high-performance Telegram automation systems,  
-> engineer resilient backend architectures,  
-> and debug until every line of code obeys.  
+> I design high-performance Telegram automation systems, engineer resilient backend architectures, and debug until every line of code obeys.  
 >  
-> **Discipline &gt; Motivation.**
+> 💡 **Code Philosophy:** *"Progress isn't loud. It's consistent."*  
+> ⚡ **Discipline &gt; Motivation.**
 
 <br>
 
@@ -79,15 +78,6 @@
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustThreshold&theme=github_dark" width="100%">
 </p>
-
-<br>
-
----
-
-## 🧠 Code Philosophy
-
-> *"Progress isn't loud. It's consistent."*  
-> —— **Sᴜᴅᴏ Usᴇʀ**
 
 <br>
 
